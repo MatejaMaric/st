@@ -3,7 +3,8 @@
 This is my fork of [st][stterm] terminal with following patches applied:
 
 - bold is not bright
-- nordtheme
+- nordtheme (with black background)
+- alpha
 
 ### Build requirements:
 
