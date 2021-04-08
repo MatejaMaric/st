@@ -5,6 +5,11 @@ This is my fork of [st][stterm] terminal with following patches applied:
 - bold is not bright
 - nordtheme (with black background)
 - alpha
+- boxdraw
+
+## Dependencies:
+
+- Fira Code font
 
 ### Build requirements:
 
