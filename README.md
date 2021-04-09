@@ -8,6 +8,7 @@ This is my fork of [st][stterm] terminal with following patches applied:
 - boxdraw
 - newterm
 - desktopentry
+- scrollback (with mouse)
 
 ## Dependencies:
 
