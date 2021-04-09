@@ -7,6 +7,7 @@ This is my fork of [st][stterm] terminal with following patches applied:
 - alpha
 - boxdraw
 - newterm
+- desktopentry
 
 ## Dependencies:
 
