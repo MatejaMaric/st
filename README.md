@@ -10,7 +10,7 @@ This is my fork of [st][stterm] terminal with following patches applied:
 - desktopentry
 - scrollback (with mouse)
 - clipboard
-- externalpipe
+- externalpipe (for URLs)
 
 ## Dependencies:
 
