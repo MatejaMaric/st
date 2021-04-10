@@ -15,7 +15,7 @@ This is my fork of [st][stterm] terminal with following patches applied:
 
 ## Dependencies:
 
-- Fira Code font
+- Fira Code font (optional)
 
 ### Build dependencies:
 
