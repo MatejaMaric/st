@@ -11,6 +11,7 @@ This is my fork of [st][stterm] terminal with following patches applied:
 - scrollback (with mouse)
 - clipboard
 - externalpipe (for URLs)
+- xresources
 
 ## Dependencies:
 
