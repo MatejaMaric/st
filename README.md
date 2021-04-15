@@ -12,11 +12,7 @@ This is my fork of [st][stterm] terminal with following patches applied:
 - externalpipe (for URLs)
 - xresources
 
-## Dependencies:
-
-- Fira Code font (optional)
-
-### Build dependencies:
+## Build dependencies:
 
 - Xlib header files
 - fontconfig
